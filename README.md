@@ -10,7 +10,7 @@ In this repository you will find the lectures and problem sheets.
 
 Lecture slides are Jupyter notebooks turned into presentations using the RISE plugin.
 
-Click the badge above to open a Jupyter session in your browser.  It may take a minute to load.  When it does:
+Click the "launch binder" blue badge above to open a Jupyter session in your browser.  It may take a minute to load.  When it does:
 
 - Navigate to the `lectures` directory
 - Select the lecture slides you want to view
